@@ -1,0 +1,17 @@
+{
+    "anuncios": [{
+            "name": "BMW Serie 3",
+            "sell": "true",
+            "price": "5000",
+            "photo": "29",
+            "tag": "vehiculos"
+        },
+        {
+            "name": "BMW Serie 1",
+            "sell": "false",
+            "price": "8923",
+            "photo": "29",
+            "tag": "vehiculos"
+        }
+    ]
+}
